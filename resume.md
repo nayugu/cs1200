@@ -1,5 +1,5 @@
 # My Resume
 
 Name: Nathan Gu
-Major: CS + Math Combined
-Expected graduation date: May 2029
+<br>Major: CS + Math Combined
+<br>Expected graduation date: May 2029
